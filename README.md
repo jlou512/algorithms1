@@ -1,1 +1,1 @@
-My implementations for the programming assignments for the Algorithms Part1 course by Robert Sedgewick and Kevin Wayne.
+My implementations for the programming assignments for the Algorithms Part1 course by Robert Sedgewick and Kevin Wayne. Requires the algs4.jar provided from their website: https://algs4.cs.princeton.edu/code/
